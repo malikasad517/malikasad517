@@ -1,16 +1,19 @@
-## Hi there 👋
+# Muhammad Asad — WordPress Developer & WooCommerce Specialist
 
-<!--
-**malikasad517/malikasad517** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Top Rated on Upwork | 97% Job Success | 64+ Projects Completed**
 
-Here are some ideas to get you started:
+4+ years building fast, secure, and high-converting WordPress websites.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## What I Build
+- Custom WordPress websites from scratch
+- WooCommerce stores with Stripe & PayPal integration
+- Elementor Pro designs and custom PHP themes
+- WordPress speed optimization — PageSpeed 90+ scores
+- WordPress security, malware removal & hardening
+- PSD & Figma to WordPress pixel-perfect conversions
+
+## Tech Stack
+WordPress · WooCommerce · Elementor Pro · PHP · JavaScript · jQuery · CSS3 · HTML5 · MySQL · ACF · CPT UI · WP Rocket · Cloudflare · Yoast SEO · Rank Math · Gravity Forms · WP-CLI
+
+## Hire Me
+Top Rated WordPress Developer on Upwork — available for WordPress development, WooCommerce stores, Elementor Pro builds, and ongoing WordPress maintenance.
